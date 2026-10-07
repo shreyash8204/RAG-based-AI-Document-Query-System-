@@ -1,0 +1,16 @@
+Core2web Technologies is a premier coding academy
+and IT training institute founded in January 2017
+by Shashi Bagal Sir.
+
+The headquarters is located in Pune, Maharashtra.
+
+The institute focuses on technical logic building,
+coding fundamentals, and industry-oriented software
+engineering.
+
+Core offerings include C, C++, Java, Python,
+Data Structures and Algorithms, Flutter, React,
+Spring Boot, DBMS and Operating Systems.
+
+The institute also provides placement assistance,
+mock interviews and aptitude preparation.
